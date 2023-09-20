@@ -1,4 +1,4 @@
-import javax.xml.transform.Source;
+
 
 public class ContohTipeData15 {
     public static void main(String[] args) {
@@ -12,7 +12,8 @@ public class ContohTipeData15 {
         System.out.println("Golongan darah\t: " + (byte)golonganDarah);
         System.out.println("Jumlah Penduduk\t: " + jumlahPenduduk);
         System.out.println("Suhu\t\t: " + suhu);
-        System.out.println("Berat\t\t: " + saldo);
+        System.out.println("Berat\t\t: " + berat);
+        System.out.println("Saldo\t: " + saldo);
         System.out.println("Angka desimal\t: " + angkaDesimal);
         
     }
